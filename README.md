@@ -53,13 +53,6 @@ If you'd like to search by location, you can include the city to search as an ad
 
 N/A - only launched via Localhost
 
-## Built With
-
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
-
 ## Authors
 
 - **Billie Thompson** - *Provided README Template* -
